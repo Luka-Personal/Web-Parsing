@@ -4,4 +4,4 @@ also it selects different pages using for loop(with a timeout), in the end all t
 
 Date Finished 5/21/2022 - Слава Украине!
 
-Created by - Luka Tsinaridze, Languages used - Python
+Created by - Luka Tsinaridze, Languages used - Python, HTML?
